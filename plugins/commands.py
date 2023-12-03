@@ -54,7 +54,7 @@ async def start(client, message):
                     InlineKeyboardButton('Aʙᴏᴜᴛ', callback_data='about')
 
                 ],[                                        
-                    InlineKeyboardButton('Aɴʏ Qᴜᴇʀʏ', url="t.me/Unknown_Support_Bot")                            
+                    InlineKeyboardButton('🔒Join Update Channel', url="https://t.me/update_channel45")                            
                 ]]
         
         reply_markup = InlineKeyboardMarkup(buttons)
